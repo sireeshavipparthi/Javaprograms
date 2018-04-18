@@ -20,7 +20,29 @@ public class Datatypes {
 			System.out.println("Current speed of the car is: " +  carSpeed);
 	 
 		
-	 
+			char a;
+
+		       //Initialize the char variable with value 'P'
+		       a = 'P';
+
+		       //Print the value of char variable
+		     	System.out.println("Value of char is : " +  a);
+
+		     	
+		     	double PI;
+		     	 
+				//Initialize the double variable with value 'P'
+		        PI = 3.14159;
+		 
+		      //Print the value of double variable
+		        System.out.print("PI: " + PI);
+		 
 	}
 
 }
+
+
+
+
+
+
